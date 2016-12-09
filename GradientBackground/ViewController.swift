@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         
         gradientLayer.frame = self.view.bounds
         self.view.layer.insertSublayer(gradientLayer, at: 100)
+        
     }
 
     
